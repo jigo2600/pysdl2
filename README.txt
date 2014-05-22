@@ -1,3 +1,8 @@
+WARNING:
+This is just a personal conversion to git so i can add pysdl2 with git submodule add.
+Do NOT use this repo, instead use the original (mercurial) repo at 
+https://bitbucket.org/marcusva/py-sdl2
+
 About PySDL2
 ============
 PySDL2 is a wrapper around the SDL2 library and as such similar to the
